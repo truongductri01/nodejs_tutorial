@@ -1,0 +1,16 @@
+{
+  "name": "NodeJS_tutorial",
+  "version": "1.0.0",
+  "description": "Node.js makes JavaScript run outside of the browser (no need for HTML to see the result returned from the script)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "develop": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
